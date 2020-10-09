@@ -29,7 +29,7 @@ twitter_username: NULL
 github_username:  RangerNJU
 
 # Build settings
-theme: minima
+theme: jekyll-text-theme
 plugins:
   - jekyll-feed
 
